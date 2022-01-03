@@ -28,8 +28,11 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 * Button Mode
 * Movie Text Mode (movie, Movie)
 
-#### [𝘿𝙚𝙥𝙡𝙤𝙮𝙚 𝙏𝙤 𝙧𝙖𝙞𝙡𝙬𝙖𝙮](new update) 
-<details>* by @malayalamvibe @malayalamviberobot telegram 
+#### 𝘿𝙚𝙥𝙡𝙤𝙮𝙚 𝙏𝙤 𝙧𝙖𝙞𝙡𝙬𝙖𝙮 (new update) 
+<details><summary>Auto Filter railway deploye Orginal</summary>
+<p>
+<br>
+* by @malayalamvibe @malayalamviberobot telegram 
 * New update 
 * Simple deploying in railway (click usd values) 
 
