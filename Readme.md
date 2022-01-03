@@ -32,9 +32,11 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 <details><summary>Auto Filter railway deploye Orginal</summary>
 <p>
 <br>
-* by @malayalamvibe @malayalamviberobot telegram 
-* New update 
-* Simple deploying in railway (click usd values) 
+ by @malayalamvibe @malayalamvibead telegram 
+.New update 
+ Simple deploying in railway (click usd values)
+
+###support 
 
 ### Used values
 * #API_HASHYour API Hash From my.telegram.org or @MT_MytelegramOrg_Bot
